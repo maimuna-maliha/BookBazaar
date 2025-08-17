@@ -1,0 +1,19 @@
+# OS / IDE files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Composer dependencies
+/vendor/
+composer.lock
+
+# Environment variables
+.env
+
+# Logs
+*.log
+
+# XAMPP / cache
+*.bak
+*.tmp
