@@ -2,7 +2,6 @@
 
 BookBazaar is a full-stack online book shop application built with **PHP, MySQL, HTML, CSS, and JavaScript**. It allows users to browse, view details, and purchase books, while admins can manage books, orders, and users from a dashboard.
 
----
 
 ## Features
 
@@ -19,7 +18,6 @@ BookBazaar is a full-stack online book shop application built with **PHP, MySQL,
 - Manage users and their roles
 - Dashboard statistics (total books, orders, customers, sales)
 
----
 
 ## Technologies Used
 - **Frontend:** HTML, CSS, JavaScript
@@ -27,7 +25,6 @@ BookBazaar is a full-stack online book shop application built with **PHP, MySQL,
 - **Database:** MySQL
 - **Server:** XAMPP (Apache & MySQL)
 
----
 
 ## Folder Structure
 online-book-shop/
