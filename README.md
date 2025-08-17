@@ -30,10 +30,6 @@ BookBazaar is a full-stack online book shop application built with **PHP, MySQL,
 ---
 
 ## Folder Structure
-<<<<<<< HEAD
-=======
-```text
->>>>>>> ad6110b (Update README)
 online-book-shop/
 │
 ├── home.php                  # Home page (welcome, header, footer)
@@ -79,9 +75,3 @@ online-book-shop/
 │
 └── sql/
     └── online_book_shop.sql  # Database
-<<<<<<< HEAD
-
----
-
-=======
->>>>>>> ad6110b (Update README)
