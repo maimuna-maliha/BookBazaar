@@ -81,12 +81,9 @@ online-book-shop/
 
 ## Installation
 
-1. Clone the repository:
-```bash
-git clone https://github.com/maimuna-maliha/BookBazaar.git
+1. Clone the repository: git clone https://github.com/maimuna-maliha/BookBazaar.git
 
 2. Move the project to your XAMPP `htdocs` folder: C:\xampp\htdocs\
-
 
 3. Import the database:
 - Open `phpMyAdmin`
